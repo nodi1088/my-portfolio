@@ -1,0 +1,28 @@
+.one{
+    background-image: url("assets/Hero-bg.png");
+    background-repeat: none;  
+}
+
+.learn-one{
+    display: flex;
+}
+.learn-two{
+    display: flex;
+}
+.learn-three{
+    display: flex;
+}
+
+.cards{
+    display: flex;
+}
+
+.card-one{
+    
+}
+.card-two{
+    
+}
+.card-three{
+    
+}
