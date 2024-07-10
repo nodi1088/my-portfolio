@@ -26,3 +26,8 @@
 .card-three{
     
 }
+
+.five{
+    background-image: url("assets/handshake.jpg");
+    background-repeat: none;
+}
