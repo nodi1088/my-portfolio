@@ -30,4 +30,18 @@
 .five{
     background-image: url("assets/handshake.jpg");
     background-repeat: none;
+    width: auto;
+    height: auto;
+    align-items: center;
+}
+.five-text{
+    color: white;
+    text-align: center;
+}
+.five-button{
+    display: flex;
+    
+}
+.footer{
+    display: flex;
 }
